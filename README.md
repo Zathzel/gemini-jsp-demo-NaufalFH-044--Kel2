@@ -63,3 +63,28 @@ The goal is not complexity, but **clarity and understanding**.
 
 ## 🗂 Project Structure
 
+gemini-jsp-demo
+│
+├── src/main/java
+│ └── com/example/geminijsp
+│ ├── controller
+│ │ ├── ChatController.java
+│ │ └── HelloController.java
+│ ├── service
+│ │ └── GeminiService.java
+│ └── config
+│ └── WebConfig.java
+│
+├── src/main/webapp
+│ └── WEB-INF/jsp
+│ ├── chat.jsp
+│ └── hello.jsp
+│
+├── pom.xml
+└── README.md
+
+🌐 Available Endpoints
+Endpoint	Method	Description
+/hello	GET	Hello World page
+/	GET	Gemini chat page
+/chat	POST	Send prompt to AI
