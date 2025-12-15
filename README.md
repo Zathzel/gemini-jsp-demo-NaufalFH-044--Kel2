@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17-orange"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.4.12-brightgreen"/>
   <img src="https://img.shields.io/badge/View-JSP-blue"/>
   <img src="https://img.shields.io/badge/AI-Gemini-lightgrey"/>
 </p>
